@@ -1,4 +1,4 @@
-### <div align="center">I'm Jou072, a robotic-back-end student and developer 💻</div>  
+### <div align="center">I'm Haoran Zhou, a robotic-back-end student and developer 💻</div>  
   
 
 - 🔭 I’m currently studying on USST in Shanghai  
